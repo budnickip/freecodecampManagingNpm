@@ -4,6 +4,7 @@
 	"version": "0.0.1",
   "description": "Exercise for FreeCodeCamp",
   "keywords": ["freecodecamp", "exercise", "package.json"],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
